@@ -12,7 +12,8 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou f
 - 🌱 Aprendendo: **React, Node.js, e otimização de banco de dados**
 - 👯 Procurando colaborar em: **Projetos open-source que impactam a comunidade**
 - 💬 Pergunte-me sobre: **JavaScript, Node.js, e Testes de Software (QA)**
-- 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/seu-perfil), [Twitter](https://twitter.com/seu-perfil)**
+- 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/lucas-ariel-0688a9261/)
+
 
 ---
 
@@ -53,6 +54,6 @@ Um bot inteligente para automatizar lançamentos de software. 🔧
 
 Se quiser bater um papo ou discutir uma oportunidade, sinta-se à vontade para me mandar uma mensagem!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ariel-0688a9261/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasarielhengen31@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5549999201298)
