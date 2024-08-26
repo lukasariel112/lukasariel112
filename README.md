@@ -32,8 +32,8 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou f
 
 ## 📈 GitHub Estatísticas
 
-![Lukas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-Ariel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ariel&layout=compact&theme=radical)
+![Lukas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lukas-Ariel&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckas-Ariel&layout=compact&theme=radical)
 
 
 
