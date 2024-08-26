@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou f
 ## 🚀 Sobre mim
 
 - 🔭 Atualmente estou trabalhando em: **APIs de gestão de usuários e ferramentas de automação**
-- 🌱 Aprendendo: **React, Node.js, e otimização de banco de dados**
+- 🌱 Aprendendo: **TypeScript, JacaScript, React, Node.js, e otimização de banco de dados**
 - 👯 Procurando colaborar em: **Projetos open-source que impactam a comunidade**
 - 💬 Pergunte-me sobre: **JavaScript, Node.js, e Testes de Software (QA)**
 - 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/lucas-ariel-0688a9261/)**
@@ -31,7 +31,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou f
 
 ## 📈 GitHub Estatísticas
 
-![Lukas' GitHub Stats](https://github-readme-stats.vercel.app/api?lukasariel112&show_icons=true&theme=radical)
+![Lukas' GitHub Stats](https://github-readme-stats.vercel.app/api?lukasariel112_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lukasariel112&layout=compact&theme=radical)
 
 ---
