@@ -36,22 +36,8 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou f
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasariel112&layout=compact&theme=radical)
 
 
-
 ---
 
-## 🌟 Projetos em Destaque
-
-### [Projeto Conversor de Moedas](https://github.com/seu-username/conversor-de-moedas)
-Um conversor de moedas simples e eficiente que facilita a conversão entre várias moedas globais. 🚀
-
-![Preview](https://via.placeholder.com/800x400.png?text=Preview+do+Projeto)
-
-### [Release Bot](https://github.com/seu-username/release-bot)
-Um bot inteligente para automatizar lançamentos de software. 🔧
-
-![Preview](https://via.placeholder.com/800x400.png?text=Preview+do+Projeto)
-
----
 
 ## 📬 Contato
 
