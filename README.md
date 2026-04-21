@@ -8,10 +8,10 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou f
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente estou trabalhando em: **APIs de gestão de usuários e ferramentas de automação**
-- 🌱 Aprendendo: **TypeScript, JacaScript, React, Node.js, e otimização de banco de dados**
+- 🔭 Atualmente estou trabalhando em: **Br Machine**
+- 🌱 Aprendendo: **TypeScript, Node.js, Flutter, Delphi e otimização de banco de dados**
 - 👯 Procurando colaborar em: **Projetos open-source que impactam a comunidade**
-- 💬 Pergunte-me sobre: **JavaScript, Node.js, e Testes de Software (QA)**
+- 💬 Pergunte-me sobre: **TypeScript, Node.js, Flutter**
 - 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/lucas-ariel-0688a9261/)**
 
 
