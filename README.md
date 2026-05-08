@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou f
 ## 🚀 Sobre mim
 
 - 🔭 Atualmente estou trabalhando em: **Br Machine**
-- 🌱 Trabalhando com: **TypeScript, Node.js, Flutter, Delphi e otimização de banco de dados**
+- 🌱 Trabalhando com: **TypeScript, Node.js, Flutter, Delphi, php e otimização de banco de dados**
 - 💬 Pergunte-me sobre: **TypeScript, Node.js, Flutter**
 - 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/lucas-ariel-0688a9261/)**
 
